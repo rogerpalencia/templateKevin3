@@ -1,0 +1,107 @@
+body[data-theme="dark"] {
+   @import '../src/scss/dark-slider.scss';
+ 
+   .slider-tab {
+     background-color: #3C415C; // Azul Acero
+   }
+ 
+   .title-styles {
+     color: #FFFFFF; // Blanco Hielo
+   }
+ 
+   .header-icon {
+     color: #00E0C6; // Turquesa Eléctrico
+     opacity: 0.8;
+   }
+ 
+   .slider-image {
+     border: 5px solid #3C415C; // Azul Acero
+   }
+ 
+   .language {
+     background-color: #2A2D3E; // Azul Profundo
+   }
+ 
+   .link-href {
+     color: #00E0C6; // Turquesa Eléctrico
+   }
+ 
+   .project-date {
+     background-color: #3C415C; // Azul Acero
+     color: #D1D1D1; // Gris Claro
+   }
+ 
+   header {
+     background-color: #2A2D3E; // Azul Profundo
+     h1 {
+       color: #FFFFFF; // Blanco Hielo
+     }
+   }
+ 
+   #about {
+     background-color: #3C415C; // Azul Acero
+     h1 span {
+       color: #FFFFFF; // Blanco Hielo
+     }
+     .polaroid span {
+       background: #2A2D3E; // Azul Profundo
+     }
+     .card {
+       background: #2A2D3E; // Azul Profundo
+       color: #D1D1D1; // Gris Claro
+     }
+   }
+ 
+   #portfolio {
+     background: #2A2D3E; // Azul Profundo
+     .section-title {
+       color: #FFFFFF !important; // Blanco Hielo
+     }
+     .foto div {
+       background: #3C415C; // Azul Acero
+     }
+     .project-title-settings {
+       color: #FFFFFF; // Blanco Hielo
+     }
+   }
+ 
+   #resume {
+     filter: brightness(90%);
+     background: #2A2D3E; // Azul Profundo
+     .section-title {
+       color: #FFFFFF !important; // Blanco Hielo
+     }
+ 
+     .experience-badge {
+       background: #3C415C !important; // Azul Acero
+       color: #D1D1D1; // Gris Claro
+     }
+ 
+     .main-badge {
+       background: #3C415C !important; // Azul Acero
+     }
+ 
+     .vertical-timeline-element-date {
+       color: #D1D1D1; // Gris Claro
+     }
+ 
+     .vertical-timeline-element-icon {
+       background: #3C415C !important; // Azul Acero
+     }
+ 
+     @media only screen and (max-width: 1169px) {
+       .vertical-timeline-element-date {
+         color: #2A2D3E; // Azul Profundo (para contraste en móviles)
+       }
+     }
+   }
+ 
+   .modal-inside .modal-content {
+     background: #2A2D3E; // Azul Profundo
+     color: #D1D1D1; // Gris Claro
+   }
+ 
+   .close-icon {
+     color: #00E0C6; // Turquesa Eléctrico
+   }
+ }

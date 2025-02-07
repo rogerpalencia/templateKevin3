@@ -1,0 +1,152 @@
+{
+  "basic_info": {
+    "description_header": "Hello",
+    "description": "👋 I'm Kevin Palencia, a Systems Engineer with over 3 years of experience in software development. I specialize in optimizing systems, automating processes, and enhancing user experiences. Skilled in PHP, JavaScript, modern frameworks like React and Angular, and backend technologies such as PostgreSQL and MySQL. Passionate about artificial intelligence and its applications in web development.",
+    "section_name": {
+      "about": "About Me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Vanguard Experience",
+      "startDate": "May 2021",
+      "endDate": "October 2021 / September 2024 - October 2024",
+      "description": "Developed a website and booking system for a luxury villa rental business in Mexico, creating an intuitive and visually appealing user interface. Later, applied a full rebranding and improved the platform’s digital presence.",
+      "images": [
+        "images/portfolio/vanguard/p1.jpg",
+        "images/portfolio/vanguard/p2.jpg"
+      ],
+      "url": "https://vanguardexperience.com",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        }
+      ]
+    },
+    {
+      "title": "Puerto Cabello Tax System",
+      "startDate": "February 2023",
+      "endDate": "June 2024",
+      "description": "Developed 90% of the public events collection module for the Puerto Cabello tax system, automating processes and reducing authorization times from 72 to 24 hours.",
+      "images": [
+        "images/portfolio/tax-system/p1.jpg",
+        "images/portfolio/tax-system/p2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "MySQL"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        }
+      ]
+    },
+    {
+      "title": "Graduation Management System",
+      "startDate": "July 2023",
+      "endDate": "October 2023",
+      "description": "Developed a system to automate graduation ceremony scheduling, fee tracking, and robe collection, improving efficiency and reducing manual effort.",
+      "images": [
+        "images/portfolio/graduation/p1.jpg",
+        "images/portfolio/graduation/p2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "name": "PostgreSQL"
+        }
+      ]
+    },
+    {
+      "title": "FMC Quotation System",
+      "startDate": "March 2024",
+      "endDate": "July 2024",
+      "description": "Built a quotation system and corporate website for a brake parts manufacturer, improving client interaction and response times. Enhanced website functionality and responsiveness across devices.",
+      "images": [
+        "images/portfolio/fmc/p1.jpg",
+        "images/portfolio/fmc/p2.jpg"
+      ],
+      "url": "https://fmcvnzla.com",
+      "technologies": [
+        {
+          "class": "devicon-wordpress-plain",
+          "name": "WordPress"
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "J2D, C.A, Venezuela",
+      "title": "Junior PHP Developer",
+      "years": "February 2023 - June 2024",
+      "description": "Developed 90% of the public events collection module for Puerto Cabello’s tax system, automating the process and reducing authorization times from 72 to 24 hours.",
+      "mainTech": ["PHP", "MySQL"],
+      "technologies": ["Bootstrap", "JavaScript", "Git", "Laravel"],
+      "icon": "fab fa-php"
+    },
+    {
+      "company": "Freelance",
+      "title": "Software Developer",
+      "years": "May 2021 - Present",
+      "description": "Developed multiple web-based projects for clients, specializing in full-stack development, performance optimization, and UI/UX improvements.",
+      "mainTech": ["React", "JavaScript", "PHP"],
+      "technologies": ["WordPress", "PostgreSQL", "Figma", "SEO", "AI & Automation"],
+      "icon": "fab fa-react"
+    },
+    {
+      "company": "Universidad Territorial Brito Figueroa",
+      "title": "Special Degree Project",
+      "years": "July 2023 - October 2023",
+      "description": "Created a graduation management system, automating key tasks like ceremony scheduling, fee tracking, and robe collection, improving efficiency and reducing manual effort.",
+      "mainTech": ["React", "Python"],
+      "technologies": ["PostgreSQL", "Bootstrap", "JavaScript"],
+      "icon": "fab fa-python"
+    },
+    {
+      "company": "FMC, C.A.",
+      "title": "Freelance Developer",
+      "years": "March 2024 - July 2024",
+      "description": "Developed a quotation system and corporate website for a manufacturer of brake parts, improving client interaction and response times.",
+      "mainTech": ["PHP", "WordPress"],
+      "technologies": ["Bootstrap", "JavaScript", "MySQL"],
+      "icon": "fab fa-wordpress"
+    }
+  ]
+}
